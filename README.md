@@ -4,8 +4,11 @@ This helps to classify sounds in FootBall Audio. It is to be used in conjunction
 ### Requirements
 
 Install following modules to use it.
+
 pip install csv
+
 pip install fnmatch
+
 pip install pyAudioAnalysis
 
 ### Depenendencies
